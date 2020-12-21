@@ -1,5 +1,5 @@
 # MC Name Checker
-## Made By BlueBlue21
+### Made By BlueBlue21
 
 This is Minecraft Name Checker.
 
