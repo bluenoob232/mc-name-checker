@@ -1,4 +1,6 @@
-# MC Name Checker - Made By BlueBlue21
+# MC Name Checker
+## Made By BlueBlue21
+
 This is Minecraft Name Checker.
 
 Made with TypeScript and Deno!
