@@ -13,7 +13,7 @@ Made with TypeScript and Deno!
 deno run --allow-all index.ts
 ```
 
-**or run "deno-run-windows.bat"!**
+**or run "deno-run-windows.bat"**
 
 <hr>
 
