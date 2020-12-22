@@ -10,7 +10,9 @@ console.log("MC Name Checker - Made By BlueBlue21");
 
 for await (let line of readLines(namefiles)) {
     if (await checkname(line) === true) {
-        checkednames.push(line);
+	if (line.length > 2) {
+		checkednames.push(line);
+	};
     };
 };
 
